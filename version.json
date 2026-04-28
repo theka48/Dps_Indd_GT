@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "minVersion": "1.0.0",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "active": true,
   "killMessage": "Phiên bản này đã hết hạn. Vui lòng tải phiên bản mới.",
   "changelog": "- Phát hành"
