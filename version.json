@@ -3,6 +3,6 @@
   "minVersion": "1.0.2",
   "forceUpdate": true,
   "active": true,
-  "killMessage": "Phiên bản này đã hết hạn. Vui lòng tải phiên bản mới.",
+  "killMessage": "Phiên bản này đã lỗi thời. Vui lòng tải phiên bản mới.",
   "changelog": "- Phát hành"
 }
